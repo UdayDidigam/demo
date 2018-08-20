@@ -1,6 +1,6 @@
 {
   "roles":[
-    { "id": 1, "name": "Post 1" }
+    { "id": 1, "name": "Admin", "description": "Admin","active":true,"version":1,"lastModifiedBy":"Uday","lastModifiedAt":"12/11/2012" }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
